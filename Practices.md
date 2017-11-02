@@ -1,4 +1,4 @@
-#Q1 How is DevOps diiferent from Traditional Software Development?
+# Q1 How is DevOps diiferent from Traditional Software Development?
 
 * Focus on flow of value, not conformance to project plan
 * Production-first mindest
@@ -7,7 +7,7 @@
 * Automate, automate, automate
 * Infrastructure is treated as flexible rsource.
 
-#Q2 What DevOps practices can I levarage to expediate software deliery and improve quality?
+# Q2 What DevOps practices can I levarage to expediate software deliery and improve quality?
 
 * Continous Integration
 * Continous Deployment
@@ -15,7 +15,7 @@
 * Applicaton Performace Monitoring (APM)
 * Testing in production
 
-#Q 10 Effective Continuous Integration
+# Q 10 Effective Continuous Integration
 * Put everything under source control
 * Automate the build process
 * Unit Testing /Code Analysis as part of build
@@ -65,7 +65,7 @@
 * Measure value from the user perspective
 
 
-#Q 10 If I want DevOps, should I use Scrum or Learn or Kanban?
+# Q 10 If I want DevOps, should I use Scrum or Learn or Kanban?
 * Yes, yes, Yes !! Any iterative framework that minimizes cycle time work well
 * Culture is a critical component of DevOps, so invest in it.
 * Take the best of Scrum| Learn| Kanban and adapt it to your team and environment
